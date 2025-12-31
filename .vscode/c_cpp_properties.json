@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Waasana/Documents/Arduino/libraries/**",
+                "C:/Users/Waasana/AppData/Local/Arduino15/packages/**"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

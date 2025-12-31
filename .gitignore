@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Arduino
+build/
+*.elf
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db

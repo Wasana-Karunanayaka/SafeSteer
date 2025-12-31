@@ -1,0 +1,5 @@
+{
+    "sketch": "SafeSteer.ino",
+    "board": "arduino:avr:uno",
+    "output": "build"
+}
